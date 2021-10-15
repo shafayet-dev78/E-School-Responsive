@@ -1,0 +1,127 @@
+
+/***************************************************
+   Responsive Media Queries Code  ******************
+   ***********************************************/
+
+/***********************************************/
+/*Toggle Menu CSS:*/
+.menu .navbar-light .navbar-toggler {
+    color: #fff;
+    border-color: #fff;
+}
+
+/****** most of the mobile phone code *****/
+
+@media ( min-width: 280px ) and ( max-width: 319px ){
+/*** Code Start****/
+
+
+/*** Code End ****/
+}
+
+/****** most of the mobile phone code *****/
+
+@media ( min-width: 320px ) and ( max-width: 479px ){
+/*** Code Start****/
+.banner {
+    padding: 20px 0px;
+}
+
+.banner h1 {
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 46px;}
+
+.banner h1 span {
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 46px;}
+
+.banner p {
+    font-size: 14px;
+    line-height: 24px;}
+
+.banner .btn-success {
+    font-size: 14px;
+    padding: 5px 15px;}
+
+.feature-section {
+    padding: 30px 0px;
+}
+
+.inner-feature {
+    padding: 25px 20px;}
+
+.online-course .title {
+    font-size: 32px;
+    margin-bottom: 15px;
+}
+.online-course .card .card-body{
+   width: 100%;
+   float: left;
+}
+.online-course .card .card-body .icons{
+   font-size: 12px;
+   line-height: 22px;
+   float: left;
+}
+.online-course .card .card-body .icons .fa{
+   font-size: 10px;
+   line-height: 20px;
+}
+.testimonial p {
+    font-size: 14px;
+    line-height: 24px;}
+
+.footer {
+    padding: 20px 0px 10px;
+}
+
+.footer h4 {
+    font-size: 16px;
+    line-height: 26px;}
+
+.footer .footer-links li a {
+    font-size: 12px;
+    line-height: 22px;
+}
+
+.footer .bottom {
+    margin-top: 20px;
+}
+
+.footer .bottom {
+    font-size: 12px;
+}
+
+
+/*** Code End ****/
+}
+
+@media ( min-width: 480px ) and ( max-width: 767px ){
+/*** Code Start****/
+
+
+/*** Code End ****/
+}
+
+@media ( min-width: 768px ) and ( max-width: 959px ){
+/*** Code Start****/
+
+
+/*** Code End ****/
+}
+
+@media ( min-width: 960px ) and ( max-width: 1023px ){
+/*** Code Start****/
+
+
+/*** Code End ****/
+}
+
+@media ( min-width: 1024px ) and ( max-width: 1400px ){
+/*** Code Start****/
+
+
+/*** Code End ****/
+}
